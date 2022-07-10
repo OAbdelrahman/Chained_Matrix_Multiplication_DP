@@ -19,14 +19,14 @@ It returns the groupings for the optimal solutions. <br>
 
 The output for the hard coded example is:
 
-[0, 1000, 1500, 1500]
-[None, 0, 1000, 1250]
-[None, None, 0, 1000]
-[None, None, None, 0]
+[0, 1000, 1500, 1500] <br>
+[None, 0, 1000, 1250] <br>
+[None, None, 0, 1000] <br>
+[None, None, None, 0] <br>
 
-[None, 0, 0, 0]
-[None, None, 1, 2]
-[None, None, None, 2]
-[None, None, None, None]
+[None, 0, 0, 0] <br>
+[None, None, 1, 2] <br>
+[None, None, None, 2] <br>
+[None, None, None, None] <br>
 
 ( A0 ) ( ( ( A1 ) ( A2 ) ) ( A3 ) )
